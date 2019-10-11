@@ -1,6 +1,6 @@
 import React from "react";
-import { List, ListItem, ListItemText, Typography } from "@material-ui/core/";
-import { BrowserRouter as Router, Switch, Route, Link } from "react-router-dom";
+import { List, ListItem, ListItemText} from "@material-ui/core/";
+import { BrowserRouter as Link } from "react-router-dom";
 
 
 import { makeStyles } from "@material-ui/styles";
